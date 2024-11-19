@@ -11,7 +11,7 @@
 
 ---
 
-# Iris Species Classification 🌸
+# Iris Species Classification 
 
 This project showcases the classification of Iris flowers into three species—**Setosa**, **Versicolor**, and **Virginica**—using four key features: **sepal length**, **sepal width**, **petal length**, and **petal width**. **Logistic Regression** is employed as the classification algorithm, and the model's performance is assessed using a range of evaluation metrics.
 
